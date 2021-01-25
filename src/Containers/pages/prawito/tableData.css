@@ -1,0 +1,12 @@
+.title{
+    width: 400px;
+}
+
+.kartu{
+    display: flex;
+    position: relative;
+}
+
+.card{
+    display: flex;
+}
